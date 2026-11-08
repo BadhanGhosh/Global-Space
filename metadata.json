@@ -1,0 +1,6 @@
+{
+  "name": "Global Space Observatory",
+  "description": "High-end NASA-grade aerospace telemetry console, interactive orbital mechanics visualizer, Deep Space Network tracking, NEO asteroid radar, and global space directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
